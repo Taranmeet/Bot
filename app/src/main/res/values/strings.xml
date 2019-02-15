@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dimagi Bot</string>
+    <string name="send">Send</string>
+    <string name="enter_name">Choose your name.</string>
+    <string name="next">Next</string>
+    <string name="login_heading">Hi Please enter your name to continue.</string>
+</resources>
