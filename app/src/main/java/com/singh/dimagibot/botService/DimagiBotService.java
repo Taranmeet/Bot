@@ -34,7 +34,7 @@ public class DimagiBotService extends Service {
     }
 
     public String handleDefault(){
-        return "We only provide following options - hi, hereami, help, inoffice, ping";
+        return "We only provide following options - hi, hereami, help, inoffice, ping, whereis";
     }
 
     public String handlePing(){
